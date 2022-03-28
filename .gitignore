@@ -1,0 +1,4 @@
+build/
+CMakeBuildVS2019/
+x64/
+.vscode/
